@@ -1,2 +1,2 @@
 # simple_ascii_hud
-TODO document
+A simple HUD watchface for Pebble.
