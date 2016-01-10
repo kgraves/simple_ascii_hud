@@ -1,0 +1,19 @@
+{
+  "uuid": "fd8507c8-79ad-4719-8815-2bc63c421b12",
+  "shortName": "simple_ascii_hud",
+  "longName": "simple_ascii_hud",
+  "companyName": "kg",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "temperature": 0,
+    "conditions": 1
+  },
+  "resources": {
+    "media": []
+  }
+}
